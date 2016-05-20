@@ -1,0 +1,5 @@
+c:\users\aaron\documents\visual studio 2015\Projects\EasyCompress\CompressionLibrary\bin\Debug\CompressionLibrary.dll
+c:\users\aaron\documents\visual studio 2015\Projects\EasyCompress\CompressionLibrary\bin\Debug\CompressionLibrary.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\EasyCompress\CompressionLibrary\obj\Debug\CompressionLibrary.dll
+c:\users\aaron\documents\visual studio 2015\Projects\EasyCompress\CompressionLibrary\obj\Debug\CompressionLibrary.pdb
+C:\Users\Aaron\documents\visual studio 2015\Projects\EasyCompress\CompressionLibrary\obj\Debug\CompressionLibrary.csprojResolveAssemblyReference.cache
